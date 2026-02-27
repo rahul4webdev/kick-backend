@@ -1,0 +1,4 @@
+Part of a Series,سلسلٕ ہُند حِصہٕ
+Select Previous Part,پتھٕر حِصہٕ چُنِو
+Previous Part,پتھٕر حِصہٕ
+Next Part,بیٖیِ حِصہٕ

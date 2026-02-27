@@ -1,0 +1,4 @@
+Part of a Series,ھڪ سيريز جو حصو
+Select Previous Part,اڳيون حصو چونڊيو
+Previous Part,اڳيون حصو
+Next Part,ايندڙ حصو

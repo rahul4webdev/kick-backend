@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.kick.entertainment",
+            "sha256_cert_fingerprints": [
+                "C8:7C:1A:36:E5:4A:C9:B2:F5:48:12:DD:D1:0D:36:93:0B:CC:B2:73:42:55:3E:A1:5C:51:8C:F1:DA:30:D7:C5"
+            ]
+        }
+    }
+]

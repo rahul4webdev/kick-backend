@@ -1,0 +1,4 @@
+Part of a Series,Bir serinin parçası
+Select Previous Part,Önceki bölümü seç
+Previous Part,Önceki bölüm
+Next Part,Sonraki bölüm

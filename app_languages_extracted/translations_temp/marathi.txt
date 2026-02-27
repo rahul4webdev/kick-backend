@@ -1,0 +1,4 @@
+Part of a Series,मालिकेचा भाग
+Select Previous Part,मागील भाग निवडा
+Previous Part,मागील भाग
+Next Part,पुढील भाग

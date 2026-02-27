@@ -1,0 +1,4 @@
+Part of a Series,Parte de uma série
+Select Previous Part,Selecionar parte anterior
+Previous Part,Parte anterior
+Next Part,Próxima parte

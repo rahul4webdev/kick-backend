@@ -1,0 +1,4 @@
+Part of a Series,시리즈의 일부
+Select Previous Part,이전 파트 선택
+Previous Part,이전 파트
+Next Part,다음 파트

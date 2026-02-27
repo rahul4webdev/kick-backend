@@ -1,0 +1,4 @@
+Part of a Series,Bagian dari seri
+Select Previous Part,Pilih bagian sebelumnya
+Previous Part,Bagian sebelumnya
+Next Part,Bagian berikutnya

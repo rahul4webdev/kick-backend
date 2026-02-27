@@ -1,0 +1,4 @@
+Part of a Series,શ્રેણીનો ભાગ
+Select Previous Part,અગાઉનો ભાગ પસંદ કરો
+Previous Part,અગાઉનો ભાગ
+Next Part,આગળનો ભાગ

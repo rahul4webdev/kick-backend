@@ -1,0 +1,4 @@
+Part of a Series,Del af en serie
+Select Previous Part,Vælg forrige del
+Previous Part,Forrige del
+Next Part,Næste del

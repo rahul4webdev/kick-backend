@@ -1,0 +1,4 @@
+Part of a Series,ఒక సిరీస్‌లో భాగం
+Select Previous Part,మునుపటి భాగాన్ని ఎంచుకోండి
+Previous Part,మునుపటి భాగం
+Next Part,తదుపరి భాగం

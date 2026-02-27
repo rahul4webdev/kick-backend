@@ -1,0 +1,4 @@
+Part of a Series,इक लड़ी दा हिस्सा
+Select Previous Part,पिछला हिस्सा चुनो
+Previous Part,पिछला हिस्सा
+Next Part,अगला हिस्सा

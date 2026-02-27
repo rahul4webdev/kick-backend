@@ -1,0 +1,4 @@
+Part of a Series,シリーズの一部
+Select Previous Part,前のパートを選択
+Previous Part,前のパート
+Next Part,次のパート

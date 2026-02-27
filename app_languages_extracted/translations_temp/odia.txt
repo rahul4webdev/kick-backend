@@ -1,0 +1,4 @@
+Part of a Series,ଏକ ଧାରାବାହିକର ଅଂଶ
+Select Previous Part,ପୂର୍ବ ଭାଗ ଚୟନ କରନ୍ତୁ
+Previous Part,ପୂର୍ବ ଭାଗ
+Next Part,ପରବର୍ତ୍ତୀ ଭାଗ

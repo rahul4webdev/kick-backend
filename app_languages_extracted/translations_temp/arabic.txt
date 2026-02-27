@@ -1,0 +1,4 @@
+Part of a Series,جزء من سلسلة
+Select Previous Part,اختر الجزء السابق
+Previous Part,الجزء السابق
+Next Part,الجزء التالي

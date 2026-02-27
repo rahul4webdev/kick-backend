@@ -1,0 +1,4 @@
+Part of a Series,ഒരു പരമ്പരയുടെ ഭാഗം
+Select Previous Part,മുൻ ഭാഗം തിരഞ്ഞെടുക്കുക
+Previous Part,മുൻ ഭാഗം
+Next Part,അടുത്ത ഭാഗം

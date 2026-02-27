@@ -1,0 +1,4 @@
+Part of a Series,ஒரு தொடரின் பகுதி
+Select Previous Part,முந்தைய பகுதியைத் தேர்ந்தெடுக்கவும்
+Previous Part,முந்தைய பகுதி
+Next Part,அடுத்த பகுதி

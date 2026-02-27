@@ -1,0 +1,4 @@
+Part of a Series,Часть серии
+Select Previous Part,Выбрать предыдущую часть
+Previous Part,Предыдущая часть
+Next Part,Следующая часть
